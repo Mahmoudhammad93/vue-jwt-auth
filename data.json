@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "first_name": "",
+        "last_name": "",
+        "username": "Mahmoud",
+        "email": "",
+        "profile": null
+    },
+    {
+        "id": 2,
+        "first_name": "Mahmoud",
+        "last_name": "Hammad",
+        "username": "Mahmoud12",
+        "password": "pbkdf2_sha256$180000$MDCojf8izntK$f2ItSyH0LhNZlwL3BxDzk3DkHMCnZTiqFmwBqyXKDsI=",
+        "email": "mahmoudhammad423@gmail.com",
+        "profile": {
+            "id": 1,
+            "birthDate": "2020-06-16",
+            "address": "Helwan",
+            "roles": [
+                1
+            ]
+        }
+    }
+]

@@ -1,0 +1,59 @@
+.header,
+.footer {
+	left: 0 !important;
+}
+
+.app {
+	padding-left: 0 !important;
+}
+
+.moduls .box {
+	text-align: center;
+	background-color: #fff;
+	margin: 17px;
+	color: #6b6b6b;
+	font-weight: bold;
+	border-radius: 5px;
+	box-shadow: 0 0 8px #e5e6e6;
+	padding: 20px;
+	position: relative;
+	-webkit-transition: all 0.2s ease-in-out;
+	-moz-transition: all 0.2s ease-in-out;
+	-o-transition: all 0.2s ease-in-out;
+	transition: all 0.2s ease-in-out;
+}
+
+.moduls .box:hover {
+	cursor: pointer;
+	/* background-color: #4bcf99; */
+	color: #fff;
+	box-shadow: 0 0 15px #aaa;
+	transform: scale(1.1);
+	-webkit-transition: all 0.2s ease-in-out;
+	-moz-transition: all 0.2s ease-in-out;
+	-o-transition: all 0.2s ease-in-out;
+	transition: all 0.2s ease-in-out;
+}
+
+.moduls .box a {
+	color: #6b6b6b;
+	text-decoration: none;
+	-webkit-transition: all 0.2s ease-in-out;
+	-moz-transition: all 0.2s ease-in-out;
+	-o-transition: all 0.2s ease-in-out;
+	transition: all 0.2s ease-in-out;
+}
+
+.moduls .box:hover a {
+	color: #fff;
+	text-decoration: none;
+}
+
+.moduls .box .icon .fa {
+	font-size: 50px;
+	margin-bottom: 10px;
+}
+
+.background{
+	left: 0 !important;
+}
